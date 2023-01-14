@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Remi's sausage making
+title: Sausage making experience
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -31,7 +31,7 @@ url: "https://mattjackson1.github.io" # the base hostname & protocol for your si
 instagram_username:  dedutchlink
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
   - jekyll-feed
 
