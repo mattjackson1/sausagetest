@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Upcoming courses"
+date:   2023-01-14 16:09:48 +0000
+categories: jekyll update
+---
+Test content here...
