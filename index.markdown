@@ -7,5 +7,5 @@ layout: home
 
 Welcome
 <picture>
-    <img src="images/homepage.jpg" alt="Remi holding up a string of sausages for teh class">
+    <img src="images/homepage.jpg" alt="Remi holding up a string of sausages for the class">
 </picture>
