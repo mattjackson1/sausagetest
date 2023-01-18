@@ -5,7 +5,8 @@
 layout: home
 ---
 
-Welcome
 <picture>
     <img src="images/homepage.jpg" alt="Remi holding up a string of sausages for the class">
 </picture>
+Welcome to our new website!
+For course availability and booking, please use the contact details at the bottom
