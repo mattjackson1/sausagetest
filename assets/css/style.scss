@@ -2,7 +2,9 @@
 # Only the main Sass file needs front matter dashes to tell Jekyll to compile it
 ---
 
-$text-color: #000000;
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&display=swap');
+$base-font-family: 'Comfortaa', cursive;
+
 $grey-color: #666666;
 
 @import "minima";
